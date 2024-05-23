@@ -1,0 +1,26 @@
+{
+  "bookings": [
+    {
+      "firstname": "Test1",
+      "lastname": "User",
+      "totalprice": 500,
+      "depositpaid": true,
+      "bookingdates": {
+        "checkin": "",
+        "checkout": ""
+      },
+      "additionalneeds": "Lunch"
+    },
+    {
+      "firstname": "Test2",
+      "lastname": "User",
+      "totalprice": 1000,
+      "depositpaid": false,
+      "bookingdates": {
+        "checkin": "",
+        "checkout": ""
+      },
+      "additionalneeds": ""
+    }
+  ]
+}

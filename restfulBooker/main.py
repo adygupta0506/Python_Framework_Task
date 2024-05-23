@@ -43,7 +43,6 @@ def main():
         update_booking_price(booking_id, updated_data)
         logging.info(f"Updated total price for booking ID {booking_id} to {updated_data}")
 
-
     # Scenario 3 : Step 7: - Delete one of the bookings
     booking_to_delete = random.choice(all_booking_ids)
     logging.info(f"Scenario 3: Deleting booking with ID {booking_to_delete}")

@@ -15,7 +15,7 @@
 * requests library
 * datetime library
 
-To install all the library at once, use requirement.txt file using the below command:
+To install the libraries at once, use requirement.txt file using the below command:
 
 `pip install -r requirements.txt`
 

@@ -29,6 +29,3 @@ def update_booking_price(booking_id, new_price):
 def delete_booking(booking_id):
     response = requests.delete(f"{BASE_URL}/booking/{booking_id}")
     return response.status_code
-
-
-
